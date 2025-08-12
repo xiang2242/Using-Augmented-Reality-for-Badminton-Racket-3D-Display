@@ -1,0 +1,5 @@
+C:/UnityProjects/3DTESTING/.utmp/RelWithDebInfo/6c4i2p2z/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/UnityProjects/3DTESTING/.utmp/RelWithDebInfo/6c4i2p2z/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/UnityProjects/3DTESTING/.utmp/RelWithDebInfo/6c4i2p2z/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/UnityProjects/3DTESTING/.utmp/RelWithDebInfo/6c4i2p2z/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/UnityProjects/3DTESTING/.utmp/RelWithDebInfo/6c4i2p2z/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
